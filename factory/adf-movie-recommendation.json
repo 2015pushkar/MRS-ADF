@@ -1,0 +1,9 @@
+{
+	"name": "adf-movie-recommendation",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c407b0c4-d55e-41bc-9d7e-4367fdaacf0c",
+		"tenantId": "13b96b9d-6642-4118-8643-07e7ef953580"
+	}
+}
